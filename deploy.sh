@@ -14,4 +14,4 @@ git commit -m 'auto deploy'
 
 # 将打包后的文件推送到指定分支
 
-git push -f https://github.com/1089109/test-build.git main:static-pages
+git push -f https://github.com/1089109/test-build.git master:static-pages
